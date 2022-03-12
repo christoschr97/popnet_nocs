@@ -1,0 +1,140 @@
+****************configuration********************
+ary size:8
+cube dimension:2
+virtual channel number:2
+buffer size:5
+outbuffer size:2
+channel width:32
+phit size:3
+flit size:32
+packet size:5
+simulation length:50000
+trace file:./0.25/bench
+Routing algorithm:0
+History window size:10
+history windows counter:4
+Current time: 0.009 Incoming packets0 Finished packets0
+****************************************************
+total finished:0
+total Delay is: nan
+Average percent (Input buffer, link) utilizations: (0, 0)
+****************************************************
+Current time: 10000.9 Incoming packets2501 Finished packets2492
+****************************************************
+total finished:2492
+total Delay is: 34.0843
+Average percent (Input buffer, link) utilizations: (1.18648, 2.98937)
+****************************************************
+Current time: 20000.9 Incoming packets5001 Finished packets4992
+****************************************************
+total finished:4992
+total Delay is: 33.9351
+Average percent (Input buffer, link) utilizations: (1.1819, 2.97685)
+****************************************************
+Current time: 30000.9 Incoming packets7501 Finished packets7489
+****************************************************
+total finished:7489
+total Delay is: 33.8706
+Average percent (Input buffer, link) utilizations: (1.18007, 2.97201)
+****************************************************
+Current time: 40000.9 Incoming packets10001 Finished packets9991
+****************************************************
+total finished:9991
+total Delay is: 33.9403
+Average percent (Input buffer, link) utilizations: (1.1825, 2.97924)
+****************************************************
+Current time: 50000.9 Incoming packets12501 Finished packets12491
+****************************************************
+total finished:12491
+total Delay is: 33.845
+Average percent (Input buffer, link) utilizations: (1.17941, 2.96952)
+****************************************************
+****************************************************
+total finished:12491
+total Delay is: 33.845
+Average percent (Input buffer, link) utilizations: (1.17941, 2.96952)
+****************************************************
+5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:0:Output vc counter is wrong
+5:5:5:5:5:5:5:Input is not empty
+Input state is wrong
+5:4:Output vc counter is wrong
+Output is not freed
+Output is not freed
+5:Output temp buffer is not empty
+Output temp buffer is not empty
+Output local counter is not reset
+5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:0:Output vc counter is wrong
+5:5:5:5:5:5:5:5:5:5:5:5:5:3:Output vc counter is wrong
+5:5:5:5:5:5:5:Input is not empty
+Input state is wrong
+5:5:1:Output vc counter is wrong
+Output is not freed
+Output is not freed
+5:Output temp buffer is not empty
+Output temp buffer is not empty
+Output local counter is not reset
+5:5:5:5:5:5:Output is not freed
+Output is not freed
+Input is not empty
+Input state is wrong
+5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:Input is not empty
+Input state is wrong
+5:5:5:5:5:5:5:3:Output vc counter is wrong
+Output is not freed
+Output is not freed
+Output temp buffer is not empty
+Output temp buffer is not empty
+Output local counter is not reset
+5:5:5:5:Input is not empty
+Input state is wrong
+5:5:5:4:Output vc counter is wrong
+Output is not freed
+Output is not freed
+Output temp buffer is not empty
+Output temp buffer is not empty
+Output local counter is not reset
+5:5:5:5:5:5:5:5:5:4:Output vc counter is wrong
+5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:4:Output vc counter is wrong
+5:5:5:5:5:5:5:5:5:5:0:Output vc counter is wrong
+Output temp buffer is not empty
+Output temp buffer is not empty
+Output local counter is not reset
+5:5:5:5:5:5:5:Input is not empty
+Input state is wrong
+5:5:Output is not freed
+Output is not freed
+5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:0:Output vc counter is wrong
+5:Output temp buffer is not empty
+Output temp buffer is not empty
+Output local counter is not reset
+5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:Input is not empty
+Input state is wrong
+5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:Input is not empty
+Input state is wrong
+5:5:5:Output is not freed
+Output is not freed
+5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:2:Output vc counter is wrong
+5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:Output is not freed
+Output is not freed
+5:5:Input is not empty
+Input state is wrong
+5:5:5:5:5:5:5:5:1:Output vc counter is wrong
+Output is not freed
+Output is not freed
+Output temp buffer is not empty
+Output temp buffer is not empty
+Output local counter is not reset
+Input is not empty
+Input state is wrong
+5:5:5:5:5:5:5:5:3:Output vc counter is wrong
+5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:Input is not empty
+Input state is wrong
+5:5:2:Output vc counter is wrong
+Output is not freed
+Output is not freed
+Output temp buffer is not empty
+Output temp buffer is not empty
+Output local counter is not reset
+5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:Input is not empty
+Input state is wrong
+5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:5:simulation empty check is correct.

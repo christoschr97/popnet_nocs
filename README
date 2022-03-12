@@ -1,0 +1,1 @@
+./isim -A 8 -c 2 -V 8 -B 5 -O 2 -P 5 -L 500000 -f 4 -H 500 -F 32 -C 32 -I ../ubench/050/bench  -p 3 -R 2 -S 0 > ./out
